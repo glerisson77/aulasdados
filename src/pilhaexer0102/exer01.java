@@ -1,8 +1,7 @@
-package pilhaexer01;
+package pilhaexer0102;
 
 import pilha.Pilha;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class exer01 {
